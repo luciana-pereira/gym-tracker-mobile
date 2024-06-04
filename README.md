@@ -1,4 +1,10 @@
+<a href="" target="_blank">Potuguês **🇧🇷**</a> | <a href="./README_en.md" target="_blank">English **🇺🇸**</a>
+
 # Gym Tracker Mobile 🏋🏻‍♀️​🏋🏻‍♂️​
+
+`CURSO: Sistemas para Internet | FIAP`
+
+`ATIVIDADE: Full Staking - Fase 07`
 
 ## Descrição
 GymTrackerMobile é um aplicativo móvel desenvolvido em React Native que permite aos usuários acompanhar suas atividades na academia. Com este aplicativo, os usuários podem registrar suas sessões de treino, acompanhar seu progresso ao longo do tempo e visualizar estatísticas relevantes para ajudá-los a alcançar seus objetivos de fitness.
